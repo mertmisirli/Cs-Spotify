@@ -1,0 +1,14 @@
+C:\Users\cumhur\source\repos\SpotifyApp\SpotifyApp\bin\Debug\net7.0\SpotifyApp.exe
+C:\Users\cumhur\source\repos\SpotifyApp\SpotifyApp\bin\Debug\net7.0\SpotifyApp.deps.json
+C:\Users\cumhur\source\repos\SpotifyApp\SpotifyApp\bin\Debug\net7.0\SpotifyApp.runtimeconfig.json
+C:\Users\cumhur\source\repos\SpotifyApp\SpotifyApp\bin\Debug\net7.0\SpotifyApp.dll
+C:\Users\cumhur\source\repos\SpotifyApp\SpotifyApp\bin\Debug\net7.0\SpotifyApp.pdb
+C:\Users\cumhur\source\repos\SpotifyApp\SpotifyApp\obj\Debug\net7.0\SpotifyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cumhur\source\repos\SpotifyApp\SpotifyApp\obj\Debug\net7.0\SpotifyApp.AssemblyInfoInputs.cache
+C:\Users\cumhur\source\repos\SpotifyApp\SpotifyApp\obj\Debug\net7.0\SpotifyApp.AssemblyInfo.cs
+C:\Users\cumhur\source\repos\SpotifyApp\SpotifyApp\obj\Debug\net7.0\SpotifyApp.csproj.CoreCompileInputs.cache
+C:\Users\cumhur\source\repos\SpotifyApp\SpotifyApp\obj\Debug\net7.0\SpotifyApp.dll
+C:\Users\cumhur\source\repos\SpotifyApp\SpotifyApp\obj\Debug\net7.0\refint\SpotifyApp.dll
+C:\Users\cumhur\source\repos\SpotifyApp\SpotifyApp\obj\Debug\net7.0\SpotifyApp.pdb
+C:\Users\cumhur\source\repos\SpotifyApp\SpotifyApp\obj\Debug\net7.0\SpotifyApp.genruntimeconfig.cache
+C:\Users\cumhur\source\repos\SpotifyApp\SpotifyApp\obj\Debug\net7.0\ref\SpotifyApp.dll
